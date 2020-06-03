@@ -25,7 +25,7 @@ body{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
 }
 
 .background-image1{
-    background-image: url(img/last.png);
+    background-image: url(last.png);
     background: no-repeat;
 }
 .bottom-right{
@@ -36,7 +36,7 @@ body{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
 }
 
 .background-image2{
-    background-image: url(img/3.png);
+    background-image: url(3.png);
     background: no-repeat;
 }
 .bottom-left{
@@ -47,7 +47,7 @@ body{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
 }
 
 .background-image3{
-    background-image: url(img/1.png);
+    background-image: url(1.png);
     background: no-repeat;
 }
 .top-left{
@@ -57,7 +57,7 @@ body{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
 }
 
 .background-image4{
-    background-image: url(img/2.png);
+    background-image: url(2.png);
     background: no-repeat;
 }
 .top-right{
